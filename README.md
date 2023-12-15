@@ -1,4 +1,4 @@
 # Firstproject-demo
 This is my first git repo.
 <br>
-author: Shashank (kumar)
+author: Shashank (Himanshu)
